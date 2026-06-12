@@ -1,4 +1,4 @@
--- Synaptic UI Library
+-- Synaptic UI Library  2
 local Library = {}
 Library.__index = Library
 
